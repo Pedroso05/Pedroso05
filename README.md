@@ -1,0 +1,4 @@
+-  Hi, I’m @Pedroso05
+-  I’m interested in python and data sciencie 
+-  I’m currently learning python and git 
+-  How to reach me @pe_pedroso
