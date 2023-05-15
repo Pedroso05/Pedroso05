@@ -1,4 +1,4 @@
 -  Hi, I’m @Pedroso05
--  I’m interested in python and data sciencie 
+-  I’m interested in python  
 -  I’m currently learning python and git 
--  How to reach me @pe_pedroso
+-  How to reach me pedrosoph3105@gmail.com
